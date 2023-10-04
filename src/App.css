@@ -4,3 +4,10 @@
   padding: 2rem;
   text-align: center;
 }
+
+.card{
+  border: 1px solid white;
+  padding: 1rem;
+  border-radius: 1rem;
+  box-shadow: 0.2rem 0.2rem white;
+}
